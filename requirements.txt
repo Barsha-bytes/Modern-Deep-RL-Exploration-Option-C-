@@ -1,0 +1,9 @@
+# Reinforcement Learning Project Requirements
+gymnasium==0.29.1
+stable-baselines3==2.3.2
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+shimmy>=0.2.1
+# For Mujoco or Atari if applicable
+# gymnasium[all]
